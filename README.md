@@ -1,1 +1,1 @@
-# nice-calc
+# Nice Calc
