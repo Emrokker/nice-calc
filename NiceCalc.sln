@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NiceCalc", "NiceCalc.csproj", "{0DBB9CF0-DBB6-442A-95B6-77B9A6FA198F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DBB9CF0-DBB6-442A-95B6-77B9A6FA198F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DBB9CF0-DBB6-442A-95B6-77B9A6FA198F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DBB9CF0-DBB6-442A-95B6-77B9A6FA198F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DBB9CF0-DBB6-442A-95B6-77B9A6FA198F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D042CF7C-F628-4DE3-A968-E58D80F52A2E}
+	EndGlobalSection
+EndGlobal
